@@ -1,0 +1,36 @@
+<annotation>
+    <folder>9.Nov</folder>
+    <filename>DJI_0015.JPG</filename>
+    <size>
+        <width>4000</width>
+        <height>2250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Plastic</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3356</xmin>
+            <ymin>412</ymin>
+            <xmax>3381</xmax>
+            <ymax>430</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Plastic</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3034</xmin>
+            <ymin>1984</ymin>
+            <xmax>3086</xmax>
+            <ymax>2031</ymax>
+        </bndbox>
+    </object>
+</annotation>
