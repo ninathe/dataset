@@ -1,0 +1,5 @@
+/home/nina/network/dataset/syntheticData/images/val/37.jpg
+/home/nina/network/dataset/syntheticData/images/val/39.jpg
+/home/nina/network/dataset/syntheticData/images/val/6.jpg
+/home/nina/network/dataset/syntheticData/images/val/10.jpg
+/home/nina/network/dataset/syntheticData/images/val/42.jpg

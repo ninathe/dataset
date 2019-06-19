@@ -13,6 +13,7 @@
 /home/nina/network/dataset/editedDataset/images/train/17.jpg
 /home/nina/network/dataset/editedDataset/images/train/15.jpg
 /home/nina/network/dataset/editedDataset/images/train/27.jpg
+/home/nina/network/dataset/editedDataset/images/train/49.jpg
 /home/nina/network/dataset/editedDataset/images/train/23.jpg
 /home/nina/network/dataset/editedDataset/images/train/35.jpg
 /home/nina/network/dataset/editedDataset/images/train/16.jpg
@@ -30,6 +31,7 @@
 /home/nina/network/dataset/editedDataset/images/train/1.jpg
 /home/nina/network/dataset/editedDataset/images/train/45.jpg
 /home/nina/network/dataset/editedDataset/images/train/40.jpg
+/home/nina/network/dataset/editedDataset/images/train/25.jpg
 /home/nina/network/dataset/editedDataset/images/train/33.jpg
 /home/nina/network/dataset/editedDataset/images/train/14.jpg
 /home/nina/network/dataset/editedDataset/images/train/12.jpg
@@ -45,6 +47,5 @@
 /home/nina/network/dataset/editedDataset/images/train/21.jpg
 /home/nina/network/dataset/editedDataset/images/train/11.jpg
 /home/nina/network/dataset/editedDataset/images/train/32.jpg
-/home/nina/network/dataset/editedDataset/images/train/26.jpg
 /home/nina/network/dataset/editedDataset/images/train/29.jpg
 /home/nina/network/dataset/editedDataset/images/train/7.jpg
