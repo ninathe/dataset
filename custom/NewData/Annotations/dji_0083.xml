@@ -1,0 +1,23 @@
+<annotation>
+    <folder>9.Nov</folder>
+    <filename>DJI_0083 1.JPG</filename>
+    <size>
+        <width>4000</width>
+        <height>2250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Other</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2412</xmin>
+            <ymin>1238</ymin>
+            <xmax>2561</xmax>
+            <ymax>1379</ymax>
+        </bndbox>
+    </object>
+</annotation>
