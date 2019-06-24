@@ -1,5 +1,6 @@
-/home/nina/network/dataset/syntheticData/images/val/37.jpg
-/home/nina/network/dataset/syntheticData/images/val/39.jpg
-/home/nina/network/dataset/syntheticData/images/val/6.jpg
-/home/nina/network/dataset/syntheticData/images/val/10.jpg
-/home/nina/network/dataset/syntheticData/images/val/42.jpg
+/home/nina/network/dataset/syntheticData/images/val/44.jpg
+/home/nina/network/dataset/syntheticData/images/val/55.jpg
+/home/nina/network/dataset/syntheticData/images/val/16.jpg
+/home/nina/network/dataset/syntheticData/images/val/47.jpg
+/home/nina/network/dataset/syntheticData/images/val/24.jpg
+/home/nina/network/dataset/syntheticData/images/val/8.jpg
